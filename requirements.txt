@@ -1,0 +1,10 @@
+database==0.6.0
+matplotlib==3.10.9
+neo4j==6.2.0
+networkx==3.2.1
+numpy==2.4.6
+pgmpy==1.1.2
+Pillow==12.2.0
+Requests==2.34.2
+streamlit==1.42.2
+streamlit_image_coordinates==0.2.2
